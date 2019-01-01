@@ -1,0 +1,14 @@
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\bin\Release\netcoreapp2.1\API_Contratos.Server.deps.json
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\bin\Release\netcoreapp2.1\API_Contratos.Server.runtimeconfig.json
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\bin\Release\netcoreapp2.1\API_Contratos.Server.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\bin\Release\netcoreapp2.1\API_Contratos.Server.dll
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\bin\Release\netcoreapp2.1\API_Contratos.Server.pdb
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.csprojAssemblyReference.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.RazorAssemblyInfo.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.RazorAssemblyInfo.cs
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.AssemblyInfo.cs
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.RazorTargetAssemblyInfo.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.dll
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Server\obj\Release\netcoreapp2.1\API_Contratos.Server.pdb

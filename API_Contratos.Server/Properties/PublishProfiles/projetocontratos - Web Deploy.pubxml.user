@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYdi88Jdo70WUAlX48NBMxgAAAAACAAAAAAAQZgAAAAEAACAAAAC6OC5MALT0dg6o55qxh8HHYhXoUqRLRr0lPG5OCDickQAAAAAOgAAAAAIAACAAAAAD+ldVMQg4e0f1awCfLQdN/mLAPOoaHZ48x8t0SBEuboAAAAA5ftiFRse1XlHb0cO7t/96JreqZS92ByWj+V34s3JWXCjeWOka1JxxGWM2+kJIHfFAwmGl7Y+r8Eml9qNXNs43pPz+wx0d/zqjfwQkoHO8pCCYVM4D5R9UcSvyIKFtvKLqC55VolTE20lApWfTdJq2niKGuspyWohoo+HTq+z960AAAAC+xKgJF2E8Ch9Lou9uQ0+ttxBtINiZkgNs485Hq+VPLU9bZWuLZ0f+wqzaVtPX90a5wvMrv9dZ8AFpbGScfupy</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>User ID=geradorcontratos%3bPassword=guilherme!%40#123%3bServer=den1.mssql8.gear.host%3bDatabase=geradorcontratos%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\guilh\.nuget\packages\microsoft.aspnetcore.blazor\0.7.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\guilh\.nuget\packages\microsoft.aspnetcore.blazor.browser\0.7.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\guilh\.nuget\packages\microsoft.aspnetcore.blazor.build\0.7.0\lib\netstandard1.0\Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+C:\Users\guilh\.nuget\packages\microsoft.extensions.dependencyinjection\2.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guilh\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.1.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guilh\.nuget\packages\microsoft.jsinterop\0.7.0\lib\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\guilh\.nuget\packages\mono.webassembly.interop\0.7.0\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\guilh\.nuget\packages\system.componentmodel\4.0.1\lib\netstandard1.3\System.ComponentModel.dll
+C:\Users\guilh\.nuget\packages\system.componentmodel.annotations\4.1.0\lib\netstandard1.4\System.ComponentModel.Annotations.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.linq\4.1.0\lib\netstandard1.6\System.Linq.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.text.regularexpressions\4.1.0\lib\netstandard1.6\System.Text.RegularExpressions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading\4.0.11\lib\netstandard1.3\System.Threading.dll

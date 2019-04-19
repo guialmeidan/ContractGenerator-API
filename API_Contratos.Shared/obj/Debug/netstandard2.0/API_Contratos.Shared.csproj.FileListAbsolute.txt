@@ -1,0 +1,9 @@
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\bin\Debug\netstandard2.0\API_Contratos.Shared.deps.json
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\bin\Debug\netstandard2.0\API_Contratos.Shared.dll
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\bin\Debug\netstandard2.0\API_Contratos.Shared.pdb
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\obj\Debug\netstandard2.0\API_Contratos.Shared.csprojAssemblyReference.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\obj\Debug\netstandard2.0\API_Contratos.Shared.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\obj\Debug\netstandard2.0\API_Contratos.Shared.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\obj\Debug\netstandard2.0\API_Contratos.Shared.AssemblyInfo.cs
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\obj\Debug\netstandard2.0\API_Contratos.Shared.dll
+C:\Users\guilh\source\repos\API_Contratos\API_Contratos.Shared\obj\Debug\netstandard2.0\API_Contratos.Shared.pdb

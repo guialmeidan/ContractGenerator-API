@@ -19,7 +19,7 @@ The project was structured into two main components:
 
 This API was developed in C#, using Entity Framework for data access and persistence.
 
-⚠️ *Notice**: This project has been deprecated since 2018, following the conclusion of my involvement with AIESEC. Additionally, one of the third-party APIs used to fetch opportunity data was discontinued, impacting the system's current functionality
+⚠️ **Notice**: This project has been deprecated since 2018, following the conclusion of my involvement with AIESEC. Additionally, one of the third-party APIs used to fetch opportunity data was discontinued, impacting the system's current functionality
 
 ## API Features
 
